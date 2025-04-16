@@ -33,6 +33,7 @@ Dataset
 -------
 - Product Metadata: Cleaned CSV with articleType, gender, and usage tags.
 - Image Folder: Product images named by product ID for feature matching.
+- Dataset Link : https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
 
 How It Works
 ------------
